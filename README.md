@@ -75,7 +75,7 @@ Feel free to adjust the DaisyUI theme by changing the `data-theme` attribute in 
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/pomodoro-tree-timer/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/beniamincantorlabiserica/pomodoro-tree-timer/issues).
 
 ## 📜 License
 
